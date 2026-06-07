@@ -1,29 +1,29 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title:
+title: Projeto Agro
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: de Sena Neto
+    given-names: Astor Franco
+  - family-names: Gonçalves dos Santos
+    given-names: Carlos Eduardo
+  - family-names: dos Santos
+    given-names: Felipe Rodrigues
+  - family-names: de Souza
+    given-names: Jussara Ribeiro
+  - family-names: Bastos Rocha
+    given-names: Laura Luana
+  - family-names: Alves Soares
+    given-names: Paolla
+  - family-names: Marques Pereira
+    given-names: Samuel
+  - name-suffix: Professor
     affiliation: PUC Minas
-    family-names:
-    given-names:
+    family-names: Teixeira
+    given-names: Alexandre
 keywords:
-  -
-  -
-repository-code:
+  - Infraestrutura de Rede
+  - Agropecuária
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe5-t2-projeto-agro
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2023-06-30
+date-released: 2024-12-06
